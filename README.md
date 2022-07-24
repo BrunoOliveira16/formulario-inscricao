@@ -12,4 +12,8 @@ Construir uma página de destino para que o usuário seja capaz de:
 . O endereço de e-mail não está formatado corretamente
 
 # METODOLOGIA
-Aplicação de conceitos das ferramentas HTML, CSS, JavaScript e Layouts Responsivos.
+Aplicação de conceitos em:
+- HTML;
+- CSS;
+- JavaScript;
+- Layouts Responsivos.
