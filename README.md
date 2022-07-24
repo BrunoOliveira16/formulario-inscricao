@@ -1,4 +1,4 @@
-# Formulario-de-Inscricao
+# FORMULARIO DE INSCRICAO
 Este repositório trata-se de um projeto inicial de construção de um formulário com validação dos campos do lado do cliente.
 
 - Base de estudo: https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
