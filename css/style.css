@@ -33,7 +33,7 @@ h1 {
     color: white;
 }
 
-.caixa-01 {
+.caixa-01, .caixa-02 {
     font-size: 1.8rem;
     line-height: 5rem;
     height: 50px;
@@ -49,10 +49,56 @@ h1 {
     margin: 40px auto 80px auto;
 }
 
+.container-03 {
+    margin-bottom: 80px;
+}
+
 .container-02 p {
     font-size: 1.5rem;
     padding: 0 0 0 100px;
     margin: 0;
     font-family: 'Poppins', sans-serif;
     text-align: left;
+}
+
+.caixa-02 {
+    background-color: white;
+    height: 420px;
+    margin-top: 5px;
+}
+
+form {
+    padding-top: 20px;
+}
+
+form input, button {
+    width: 85%;
+    height: 50px;
+    font-size: 1.8rem;
+    margin: 10px auto 10px auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-left: 40px;
+}
+
+button {
+    background-color: rgb(45, 207, 107);
+    color: white;
+    filter: drop-shadow(0 4px 2px rgb(51, 180, 94));
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+    right: 0;
+}
+
+.text-01 p {
+    color: gray;
+    font-size: 1.2rem;
+    line-height: 1rem;
+}
+
+.text-01 strong {
+    color: rgb(223, 81, 39);
 }
