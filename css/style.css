@@ -109,6 +109,12 @@ button:hover {
     color: rgb(45, 207, 107);
 }
 
+.mensagem {
+    color: red;
+}
+
+/* Responsividade */
+
 @media (max-width: 990px) {
     .container-00 {
        margin-top: 80px;
