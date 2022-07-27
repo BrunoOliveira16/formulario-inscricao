@@ -65,7 +65,7 @@ h1 {
 
 .caixa-02 {
     background-color: white;
-    height: 470px;
+    height: auto;
     margin-top: 5px;
 }
 
@@ -95,6 +95,10 @@ button:hover {
     right: 0;
 }
 
+.text-01 {
+    height: 30px;
+}
+
 .text-01 p {
     color: gray;
     font-size: 1.2rem;
@@ -111,6 +115,12 @@ button:hover {
 
 .mensagem {
     color: red;
+    font-size: 1.5rem;
+    line-height: 0.5rem;
+}
+
+.erro {
+    border: 2px solid red;
 }
 
 /* Responsividade */
@@ -195,7 +205,7 @@ button:hover {
     h1 {
         font-size: 3.5rem;
         text-align: center;
-        padding: 0;
+        padding: 0 !important;
         margin-bottom: 20px;
     }
 
