@@ -20,4 +20,4 @@ Aplicação de conceitos em:
 
 # SCREENSHOT DO PROJETO
 
-![Screenshot](./screenshot/screenshot.jpgs)
+![Screenshot](./screenshot/screenshot.jpg)
