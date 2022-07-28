@@ -119,10 +119,6 @@ button:hover {
     line-height: 0.5rem;
 }
 
-.erro {
-    border: 2px solid red;
-}
-
 /* Responsividade */
 
 @media (max-width: 990px) {

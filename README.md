@@ -17,3 +17,7 @@ Aplicação de conceitos em:
 - CSS;
 - JavaScript;
 - Layouts Responsivos.
+
+# SCREENSHOT DO PROJETO
+
+![Screenshot](./screenshot/screenshot.jpgs)
