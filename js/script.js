@@ -124,6 +124,7 @@ function validaSenha(elemento){
 
 }
 
+/* Variaveis */
 let FirstObrigatorio = document.querySelectorAll("input.FirstN");
 let LastObrigatorio = document.querySelectorAll("input.LastN");
 let EmailObrigatorio = document.querySelectorAll("input.email");
