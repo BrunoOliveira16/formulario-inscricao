@@ -21,3 +21,8 @@ Aplicação de conceitos em:
 # SCREENSHOT DO PROJETO
 
 ![Screenshot](./screenshot/screenshot.jpg)
+
+# LINK PARA O NAVEGADOR
+- Para visualizar o projeto no seu navegador utilize o link abaixo:
+
+https://brunooliveira16.github.io/FORMULARIO-INSCRICAO/
