@@ -1,9 +1,9 @@
-# FORMULARIO DE INSCRICAO
-Este repositório trata-se de um projeto inicial de construção de um formulário com validação dos campos do lado do cliente.
+# formulario-inscricao
+Projeto inicial de construção de um formulário com validação dos campos do lado do cliente, conforme desafio do frontend mentor.
 
 - Base de estudo: https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
 
-# APRESENTACAO
+## APRESENTACAO
 Construir uma página de destino para que o usuário seja capaz de:
 - Visualizar o layout da pagina independente do tamanho da tela do dispositivo;
 - Veja os estados de foco para todos os elementos interativos na página
@@ -11,21 +11,21 @@ Construir uma página de destino para que o usuário seja capaz de:
 . Qualquer input campo está vazio
 . O endereço de e-mail não está formatado corretamente
 
-# METODOLOGIA
+## METODOLOGIA
 Aplicação de conceitos em:
 - HTML;
 - CSS;
 - JavaScript;
 - Layouts Responsivos.
 
-# SCREENSHOT DO PROJETO
+## SCREENSHOT DO PROJETO
 
-![Screenshot](./screenshot/screenshot.jpg)
+![Screenshot](./assets/screenshot/screenshot.jpg)
 
-# LINK DO PROJETO
+## LINK DO PROJETO
 Para visualizar o projeto no seu navegador utilize o link abaixo:
 
-https://brunooliveira16.github.io/FORMULARIO-INSCRICAO/
+https://brunooliveira16.github.io/formulario-inscricao/
 
-# ANDAMENTO
+## ANDAMENTO
 Projeto em andamento, necessitando de algumas implementações com javascript.
