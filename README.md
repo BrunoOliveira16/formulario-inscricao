@@ -1,31 +1,30 @@
-# formulario-inscricao
-Projeto inicial de construção de um formulário com validação dos campos do lado do cliente, conforme desafio do frontend mentor.
+## 📝 Desafio formulario-inscricao
+Projeto de desafio do frontend mentor para criação de um formulário com validação dos campos do lado do cliente.
 
-- Base de estudo: https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1
+<h4><a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1">Link do desafio</a></h4>
 
-## APRESENTACAO
+## 💻 Screenshot do projeto
+
+Designer 01
+![Screenshot](./assets/screenshot/screenshot.jpg)
+
+<h4 align="center"><a href="https://brunooliveira16.github.io/formulario-inscricao/">Clique aqui e visite o projeto</a></h4>
+
+## 📚 Descrição
 Construir uma página de destino para que o usuário seja capaz de:
-- Visualizar o layout da pagina independente do tamanho da tela do dispositivo;
-- Veja os estados de foco para todos os elementos interativos na página
-- Receba uma mensagem de erro quando o form for enviado se:
-. Qualquer input campo está vazio
-. O endereço de e-mail não está formatado corretamente
+- **Layout Responsivo:** Visualizar o layout da pagina independente do tamanho da tela do dispositivo;
+- **Interação dos elementos:** Veja os estados de foco para todos os elementos interativos na página
+- **Validação dos campos:** Receba uma mensagem de erro quando o form for enviado se qualquer input estiver vazio e o endereço de e-mail não estiver formatado corretamente.
+---
 
-## METODOLOGIA
-Aplicação de conceitos em:
+## 💼 Tecnologias utilizadas
 - HTML;
 - CSS;
 - JavaScript;
-- Layouts Responsivos.
 
-## SCREENSHOT DO PROJETO
+---
 
-![Screenshot](./assets/screenshot/screenshot.jpg)
+## 🙋🏻‍♂️ Autor
 
-## LINK DO PROJETO
-Para visualizar o projeto no seu navegador utilize o link abaixo:
+Bruno Oliveira
 
-https://brunooliveira16.github.io/formulario-inscricao/
-
-## ANDAMENTO
-Projeto em andamento, necessitando de algumas implementações com javascript.
